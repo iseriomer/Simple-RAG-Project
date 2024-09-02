@@ -1,1 +1,2 @@
-![My-Image](https://github.com/user-attachments/assets/da57f6b8-4a2a-4f33-ba17-ee9c2b1c3a4f)
+#readme
+![Ekran Görüntüsü (2)](https://github.com/user-attachments/assets/5a929df3-37d5-412a-aa24-4ca12116521a)
